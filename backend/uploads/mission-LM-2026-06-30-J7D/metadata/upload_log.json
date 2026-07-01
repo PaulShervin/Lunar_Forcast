@@ -1,0 +1,11 @@
+{
+  "mission_id": "LM-2026-06-30-J7D",
+  "upload_time": "2026-06-30T05:37:33.170Z",
+  "original_filename": "custom_radar.tif",
+  "stored_filename": "custom_radar.tif",
+  "storage_path": "E:\\lunar-mission-planner-main\\lunar-mission-planner-main\\backend\\uploads\\mission-LM-2026-06-30-J7D\\input\\custom_radar.tif",
+  "validation_result": "Success",
+  "workspace_creation_status": "Success",
+  "dataset_matching_status": "Success",
+  "mission_initialization_status": "Success"
+}

@@ -1,0 +1,13 @@
+{
+  "sensor": "DFSAR",
+  "target": "Shackleton Crater",
+  "projection": "Polar Stereographic",
+  "datum": "IAU Moon",
+  "resolution": "0.25 m/pixel",
+  "bounding_box": {
+    "lat_min": -90.0,
+    "lat_max": -88.0,
+    "lon_min": -180.0,
+    "lon_max": 180.0
+  }
+}

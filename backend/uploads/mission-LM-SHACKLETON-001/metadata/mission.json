@@ -1,0 +1,35 @@
+{
+  "missionName": "Shackleton Polar Exploration",
+  "missionId": "LM-SHACKLETON-001",
+  "objective": "Identify subsurface water ice deposits and determine optimal landing zones for robotic exploration of Shackleton Crater at the Lunar South Pole",
+  "region": "Lunar South Pole — Shackleton Crater",
+  "datasets": {
+    "dfsar": "datasets/dfsar_image.png",
+    "ohrc": "datasets/ohrc_image.png",
+    "dem": "datasets/dem_image.png",
+    "illumination": "datasets/illumination_image.png"
+  },
+  "metadata": {
+    "source": "NASA LRO + USGS Public Data + Chandrayaan-2 DFSAR",
+    "coordinateSystem": "IAU_MOON_2015",
+    "projection": "Polar Stereographic",
+    "resolution": {
+      "dfsar": "10 m/px",
+      "ohrc": "0.25 m/px",
+      "dem": "5 m/px",
+      "illumination": "20 m/px"
+    },
+    "targetCoordinates": {
+      "latitude": -89.9,
+      "longitude": 0.0,
+      "radiusKm": 10
+    }
+  },
+  "analysisConfig": {
+    "iceDetectionThreshold": 0.65,
+    "slopeMaxDeg": 15,
+    "hazardBufferM": 50,
+    "roverMaxSlopeDeg": 20,
+    "landingSiteMinScoreThreshold": 0.6
+  }
+}

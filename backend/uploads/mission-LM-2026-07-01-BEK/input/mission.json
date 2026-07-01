@@ -1,0 +1,8 @@
+{
+  "mission_name": "Shackleton Polar Exploration",
+  "mission_id": "LMDSS-DEMO-001",
+  "target_region": "Lunar South Pole",
+  "target_crater": "Shackleton Crater",
+  "description": "Automatically prepared demonstration mission",
+  "source": "NASA LRO + USGS Public Data"
+}

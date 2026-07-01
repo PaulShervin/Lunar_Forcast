@@ -1,0 +1,11 @@
+{
+  "mission_id": "LM-2026-07-01-XDB",
+  "upload_time": "2026-07-01T08:42:52.208Z",
+  "original_filename": "dfsar_demo_input.tif",
+  "stored_filename": "dfsar_demo_input.tif",
+  "storage_path": "E:\\lunar-mission-planner-main\\lunar-mission-planner-main\\backend\\uploads\\mission-LM-2026-07-01-XDB\\input\\dfsar_demo_input.tif",
+  "validation_result": "Success",
+  "workspace_creation_status": "Success",
+  "dataset_matching_status": "Success",
+  "mission_initialization_status": "Success"
+}

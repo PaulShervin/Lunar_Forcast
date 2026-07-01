@@ -1,0 +1,11 @@
+{
+  "mission_id": "LM-2026-06-30-Y3Z",
+  "upload_time": "2026-06-30T04:51:15.700Z",
+  "original_filename": "dfsar_demo_input.tif",
+  "stored_filename": "dfsar_demo_input.tif",
+  "storage_path": "E:\\lunar-mission-planner-main\\lunar-mission-planner-main\\backend\\uploads\\mission-LM-2026-06-30-Y3Z\\input\\dfsar_demo_input.tif",
+  "validation_result": "Success",
+  "workspace_creation_status": "Success",
+  "dataset_matching_status": "Success",
+  "mission_initialization_status": "Success"
+}
